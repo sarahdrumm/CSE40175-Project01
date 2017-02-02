@@ -1,4 +1,4 @@
-Package com.notreDame;
+package com.notreDame;
 
 class CSEStudent {
     
