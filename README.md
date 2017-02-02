@@ -1,4 +1,8 @@
 # CSE40175-Project01
+* [Manifesto](#manifesto)
+* [Portrait](#portrait)
+
+---
 
 ## Manifesto:
 
@@ -13,3 +17,11 @@ We are **_ND_**. We are passionate. We are educated. We are identical.
 **_Never Die_**, our creations extend past ourselves. We write with the pen of the future, not dulled by time, our code will outlive us all. With passion and purpose we dedicate our lives to the craft, so that our products will succeed us.
 
 We are many, but we are all **_ND_**.
+
+## Portrait
+
+Our portrait can be found in:
+* /CSEStudent.java
+* /Student00.java
+* /Student01.java
+* /Student02.java
