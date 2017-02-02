@@ -1,3 +1,9 @@
+package com.notreDame;
+
+import PostGrad.*;
+import Social.*;
+import School.*;
+
 class Student02 extends CSEStudent {
     
     Student02 () {
