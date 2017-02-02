@@ -22,6 +22,6 @@ We are many, but we are all **_ND_**.
 
 Our portrait can be found in:
 * [CSEStudent.java](CSEStudent.java)
-* [Student00.java](CSEStudent.java)
-* [Student01.java](CSEStudent.java)
-* [Student02.java](CSEStudent.java)
+* [Student00.java](Student00.java)
+* [Student01.java](Student01.java)
+* [Student02.java](Student02.java)
