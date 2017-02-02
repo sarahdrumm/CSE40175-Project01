@@ -1,3 +1,12 @@
+package com.notreDame;
+
+import PostGrad.*;
+import Social.*;
+import School.*;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+import java.util.Random;
+
 class Student00 extends CSEStudent {
 
 	Student00() {
