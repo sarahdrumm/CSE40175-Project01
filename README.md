@@ -14,7 +14,7 @@ We are **_ND_**. We are passionate. We are educated. We are identical.
 
 **_Nothing Deters_** us, after our goal is set we move to acheive it. Try and stop us. Give us hurdles, we know how to jump. Give us rules, we know how to break them. Give us a problem, and we will solve it. 
 
-**_Never Die_**, our creations extend past ourselves. We write with the pen of the future, not dulled by time, our code will outlive us all. With passion and purpose we dedicate our lives to the craft, so that our products will succeed us.
+**_Never Dying_**, our creations extend past ourselves. We write with the pen of the future, not dulled by time, our code will outlive us all. With passion and purpose we dedicate our lives to the craft, so that our products will succeed us.
 
 We are many, but we are all **_ND_**.
 
